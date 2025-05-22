@@ -36,7 +36,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 # Publications
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/PIG.png" alt="paper">
+<img src="images/MPC.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</div>
@@ -72,7 +72,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/RIW.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models</div>
@@ -84,7 +84,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/DEIE.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">DEIE: Benchmarking Document-level Event Information Extraction with a Large-scale Chinese News Dataset</div>
@@ -96,7 +96,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/ASMR.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Steering Large Language Models for Cross-lingual Information Retrieval</div>
@@ -108,7 +108,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/TALENT.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Teaching Large Language Models to Translate on Low-resource Languages with Textbook</div>
@@ -120,7 +120,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/MIMIR.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience</div>
@@ -132,7 +132,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/SREA.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction</div>
@@ -144,7 +144,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/AHR.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation</div>
@@ -156,7 +156,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/X_BUFF.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Mitigating Long-Tail Language Representation Collapsing via Cross-Lingual Bootstrapped Unsupervised Fine-Tuning</div>
@@ -168,7 +168,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/EDGE.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Intra-event and Inter-event Dependency-Aware Graph Network for Event Argument Extraction</div>
@@ -180,7 +180,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/CLIO.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction</div>
@@ -192,7 +192,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
+<img src="images/SKAM.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Guiding Neural Machine Translation with Semantic Kernels</div>
