@@ -185,7 +185,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <div class="paper-text">
 <div class="paper-title">CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Fang Fang, Ping Guo, Zheng Lin, Wei Ma, Yi Liu</p>
-<p class="paper-venue">COLING'22 (findings)</p>
+<p class="paper-venue">COLING'22</p>
 <p class="paper-links"><a href="https://aclanthology.org/2022.coling-1.221/">[Paper]</a> <a href="">[Code]</a></p>
 </div>
 </div>
