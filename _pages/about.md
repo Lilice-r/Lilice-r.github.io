@@ -13,12 +13,12 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/sdu.svg" alt="Shandong University Logo" style="width: 80px; height: auto;">
+        <img src="images/buct.svg" alt="Beijing University of Chemical Technology Logo" style="width: 80px; height: auto;">
     </div>
     <div>
-        <div style="font-weight: bold;">Shandong University, China</div>
-        <div style="font-style: italic;">B.E. in Cyberspace Security</div>
-        <div>Sept. 2018 - June 2022</div>
+        <div style="font-weight: bold;">Beijing University of Chemical Technology, China</div>
+        <div style="font-style: italic;">B.E. in Communications Engineering</div>
+        <div>Sept. 2015 - June 2019</div>
     </div>
 </div>
 
@@ -28,8 +28,8 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
     </div>
     <div>
         <div style="font-weight: bold;">University of Chinese Academy of Sciences</div>
-        <div style="font-style: italic;">Ph.D Student in Institute of Information Engineering, CAS</div>
-        <div>Sept. 2022 - June 2027 (Expected)</div>
+        <div style="font-style: italic;">Ph.D in Institute of Information Engineering, CAS</div>
+        <div>Sept. 2019 - June 2024</div>
     </div>
 </div>
 
