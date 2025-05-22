@@ -192,7 +192,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/SKAM.png" alt="paper">
+<img src="images/SKAM-1.png" alt="paper">
 </div>
 <div class="paper-text">
 <div class="paper-title">Guiding Neural Machine Translation with Semantic Kernels</div>
