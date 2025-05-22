@@ -82,6 +82,126 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 </div>
 
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">DEIE: Benchmarking Document-level Event Information Extraction with a Large-scale Chinese News Dataset</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Hao Li, Yingjie Li, Zixuan Ma, Fang Fang, Ping Guo, Wei Ma</p>
+<p class="paper-venue">LREC-COLING'24 (main)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.410/">[Paper]</a> <a href="https://github.com/Lilice-r/DEIE">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Steering Large Language Models for Cross-lingual Information Retrieval</div>
+<p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yanan Cao, Yunpeng Li, Heyan Huang</p>
+<p class="paper-venue">SIGIR'24 </p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3626772.3657819">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Teaching Large Language Models to Translate on Low-resource Languages with Textbook</div>
+<p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang, Heyan Huang
+<p class="paper-venue">LREC-COLING'24 (main)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.1362/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience</div>
+<p class="paper-authors">Ping Guo, Yue Hu, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Heyan Huang
+<p class="paper-venue">WWW'24</p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645701">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction</div>
+<p class="paper-authors">Hao Li, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang
+<p class="paper-venue">ICASSP'24</p>
+<p class="paper-links"><a href="https://ieeexplore.ieee.org/document/10446551/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Ping Guo, Fang Fang, Wei Ma, Zheng Lin
+<p class="paper-venue">ACL'23 (main)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2023.acl-long.17/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Mitigating Long-Tail Language Representation Collapsing via Cross-Lingual Bootstrapped Unsupervised Fine-Tuning</div>
+<p class="paper-authors">Ping Guo, Yue Hu, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang
+<p class="paper-venue">ECAI'23 (main)</p>
+<p class="paper-links"><a href="https://ebooks.iospress.nl/doi/10.3233/FAIA230364">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Intra-event and Inter-event Dependency-Aware Graph Network for Event Argument Extraction</div>
+<p class="paper-authors">Hao Li, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang
+<p class="paper-venue">EMNLP'23 (findings)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2023.findings-emnlp.421/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Fang Fang, Ping Guo, Zheng Lin, Wei Ma, Yi Liu
+<p class="paper-venue">COLING'22 (findings)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2022.coling-1.221/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Guiding Neural Machine Translation with Semantic Kernels</div>
+<p class="paper-authors">Ping Guo, Yue Hu, Xiangpeng Wei, strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Luxi Xing, Yuqiang Xie
+<p class="paper-venue">EMNLP'22 (findings)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2022.findings-emnlp.541/">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
 # Awards
 - **2024. Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences**
 - **2023. Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences.**
