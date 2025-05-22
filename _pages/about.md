@@ -40,7 +40,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 <div class="paper-text">
 <div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang</p>
+<p class="paper-authors">Yidan Wang, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Zheng Lin, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09921">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak">[Code]</a></p>
 </div>
@@ -52,26 +52,17 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 <div class="paper-text">
 <div class="paper-title">From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Yidan Wang</strong>, Yubing Ren, Yanan Cao, Binxing Fang</p>
+<p class="paper-authors">Yidan Wang, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
 </div>
 </div>
 
-# Lectures
-
-- **[Backdoor Attacks in NLP](https://github.com/redwyd/redwyd.github.io/blob/main/lectures/NLP%20Backdoor%20Attack.pdf)**
-- **[Privacy Attacks in NLP](https://github.com/redwyd/redwyd.github.io/blob/main/lectures/Privacy%20Attacks%20in%20LLM.pdf)**
-- **[LLM Attacks in NLP](https://github.com/redwyd/redwyd.github.io/blob/main/lectures/LLM%20Attacks%20in%20NLP.pdf)**
-- **[Multi-bit Watermark in NLP](https://github.com/redwyd/redwyd.github.io/blob/main/lectures/Multi-bit%20Watermark.pdf)**
-
 # Awards
-- **Merit Student of the University of CAS** (中国科学院大学三好学生)
+- **2024. Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences**
+- **2023. Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences.**
+- **2022. Top 1 Winner of CCL 2022 Competition: News context analysis and evaluation.**
 
-# Motto
-<div class="intro-container">
-Yesterday is history, tomorrow is a mystery, but today is the present.
-</div>
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
