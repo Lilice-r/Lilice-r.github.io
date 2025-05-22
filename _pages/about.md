@@ -196,7 +196,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 <div class="paper-text">
 <div class="paper-title">Guiding Neural Machine Translation with Semantic Kernels</div>
-<p class="paper-authors">Ping Guo, Yue Hu, Xiangpeng Wei, strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Luxi Xing, Yuqiang Xie</p>
+<p class="paper-authors">Ping Guo, Yue Hu, Xiangpeng Wei, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Luxi Xing, Yuqiang Xie</p>
 <p class="paper-venue">EMNLP'22 (findings)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2022.findings-emnlp.541/">[Paper]</a> <a href="">[Code]</a></p>
 </div>
