@@ -39,6 +39,18 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <img src="images/PIG.png" alt="paper">
 </div>
 <div class="paper-text">
+<div class="paper-title">Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</div>
+<p class="paper-authors">Xiaowei Zhu, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Xixun Lin, Fang Fang, Yangxi Li</p>
+<p class="paper-venue">ACL'25 (main)</p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2505.05084">[Paper]</a> <a href="">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/PIG.png" alt="paper">
+</div>
+<div class="paper-text">
 <div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
 <p class="paper-authors">Yidan Wang, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Zheng Lin, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
@@ -55,6 +67,18 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Yidan Wang, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
+</div>
+</div>
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/SymMark.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Ping Guo, Yanan Cao, Wei Ma</p>
+<p class="paper-venue">ACL'24 (findings)</p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a> <a href="https://github.com/Lilice-r/RIW">[Code]</a></p>
 </div>
 </div>
 
