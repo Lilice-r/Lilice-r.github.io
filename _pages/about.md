@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Tenure-track Associate Professor (预聘副研究员) at Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>AI Security</strong>. 
+Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor (预聘副研究员) at Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>AI Security</strong>. 
 
 # Education
 
