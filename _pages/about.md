@@ -34,175 +34,196 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 
 # Publications
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/MPC.png" alt="paper">
+<div class="paper-text">
+<div class="paper-title">Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Ping Guo, Yanan Cao</p>
+<p class="paper-venue">ICML'26 </p>
+<p class="paper-links"><a href="">[Paper]</a> <a href=""></a></p>
 </div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">Exons-Detect: Identifying and Amplifying Exonic Tokens via Hidden-State Discrepancy for Robust AI-Generated Text Detection</div>
+<p class="paper-authors">Xiaowei Zhu, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Fang Fang, Shi Wang, Yanan Cao, Li Guo</p>
+<p class="paper-venue">ACL'26 (main)</p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2603.24981">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">Rethinking LLM Watermark Detection in Black-Box Settings: A Non-Intrusive Third-Party Framework</div>
+<p class="paper-authors">Zhuoshang Wang, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Fang Fang, Xiaoxue Li, Li Guo</p>
+<p class="paper-venue">ACL'26 (findings)</p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2603.14968">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack</div>
+<p class="paper-authors">Hao Li, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Yingjie Li, Fang Fang, Shi Wang, Li Guo</p>
+<p class="paper-venue">ACL'26 (findings)</p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2512.16182">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">Cognitive Analysis Graph-Guided Multi-Turn Safety Enhancement for Large Language Models</div>
+<p class="paper-authors">Lanxue Zhang, Yuqiang Xie, Fang Fang, Yubing Ren, Xuebin Wang, Yanan Cao</p>
+<p class="paper-venue">ACL'26 (findings)</p>
+<p class="paper-links"><a href="https://openreview.net/pdf?id=suOOpfC0IS">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">DNA-DetectLLM: Unveiling AI-Generated Text via a DNA-Inspired Mutation-Repair Paradigm</div>
+<p class="paper-authors">Xiaowei Zhu, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Fang Fang, Qingfeng Tan, Shi Wang, Yanan Cao</p>
+<p class="paper-venue">NeurIPS'25 (spotlight)</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2509.15550">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
+<div class="paper-text">
+<div class="paper-title">Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining</div>
+<p class="paper-authors">Ping Guo, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Binbin Liu, Fengze Liu, Haobin Lin, Yifan Zhang, Bingni Zhang, Taifeng Wang, Yin Zheng</p>
+<p class="paper-venue">NeurIPS'25 </p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2509.15556">[Paper]</a> <a href=""></a></p>
+</div>
+</div>
+
 <div class="paper-text">
 <div class="paper-title">Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</div>
 <p class="paper-authors">Xiaowei Zhu, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Xixun Lin, Fang Fang, Yangxi Li</p>
 <p class="paper-venue">ACL'25 (main)</p>
-<p class="paper-links"><a href="https://arxiv.org/abs/2505.05084">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2505.05084">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/PIG.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization</div>
 <p class="paper-authors">Yidan Wang, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Fang Fang, Zheng Lin, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
-<p class="paper-links"><a href="https://arxiv.org/abs/2505.09921">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak">[Code]</a></p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2505.09921">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak"></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/SymMark.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models</div>
 <p class="paper-authors">Yidan Wang, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
-<p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark">[Code]</a></p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark"></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/RIW.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Ping Guo, Yanan Cao, Wei Ma</p>
 <p class="paper-venue">ACL'24 (findings)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a> <a href="https://github.com/Lilice-r/RIW">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a> <a href="https://github.com/Lilice-r/RIW"></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/DEIE.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">DEIE: Benchmarking Document-level Event Information Extraction with a Large-scale Chinese News Dataset</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Hao Li, Yingjie Li, Zixuan Ma, Fang Fang, Ping Guo, Wei Ma</p>
 <p class="paper-venue">LREC-COLING'24 (main)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.410/">[Paper]</a> <a href="https://github.com/Lilice-r/DEIE">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.410/">[Paper]</a> <a href="https://github.com/Lilice-r/DEIE"></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/ASMR.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Steering Large Language Models for Cross-lingual Information Retrieval</div>
 <p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yanan Cao, Yunpeng Li, Heyan Huang</p>
 <p class="paper-venue">SIGIR'24 </p>
-<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3626772.3657819">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3626772.3657819">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/TALENT.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Teaching Large Language Models to Translate on Low-resource Languages with Textbook</div>
 <p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang, Heyan Huang</p>
 <p class="paper-venue">LREC-COLING'24 (main)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.1362/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.1362/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/MIMIR.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience</div>
 <p class="paper-authors">Ping Guo, Yue Hu, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Heyan Huang</p>
 <p class="paper-venue">WWW'24</p>
-<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645701">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645701">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/SREA.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction</div>
 <p class="paper-authors">Hao Li, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang</p>
 <p class="paper-venue">ICASSP'24</p>
-<p class="paper-links"><a href="https://ieeexplore.ieee.org/document/10446551/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://ieeexplore.ieee.org/document/10446551/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/AHR.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Ping Guo, Fang Fang, Wei Ma, Zheng Lin</p>
 <p class="paper-venue">ACL'23 (main)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2023.acl-long.17/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2023.acl-long.17/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/X_BUFF.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Mitigating Long-Tail Language Representation Collapsing via Cross-Lingual Bootstrapped Unsupervised Fine-Tuning</div>
 <p class="paper-authors">Ping Guo, Yue Hu, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang</p>
 <p class="paper-venue">ECAI'23 (main)</p>
-<p class="paper-links"><a href="https://ebooks.iospress.nl/doi/10.3233/FAIA230364">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://ebooks.iospress.nl/doi/10.3233/FAIA230364">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/EDGE.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Intra-event and Inter-event Dependency-Aware Graph Network for Event Argument Extraction</div>
 <p class="paper-authors">Hao Li, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang</p>
 <p class="paper-venue">EMNLP'23 (findings)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2023.findings-emnlp.421/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2023.findings-emnlp.421/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/CLIO.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Fang Fang, Ping Guo, Zheng Lin, Wei Ma, Yi Liu</p>
 <p class="paper-venue">COLING'22</p>
-<p class="paper-links"><a href="https://aclanthology.org/2022.coling-1.221/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2022.coling-1.221/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/SKAM-1.png" alt="paper">
-</div>
+
 <div class="paper-text">
 <div class="paper-title">Guiding Neural Machine Translation with Semantic Kernels</div>
 <p class="paper-authors">Ping Guo, Yue Hu, Xiangpeng Wei, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Luxi Xing, Yuqiang Xie</p>
 <p class="paper-venue">EMNLP'22 (findings)</p>
-<p class="paper-links"><a href="https://aclanthology.org/2022.findings-emnlp.541/">[Paper]</a> <a href="">[Code]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2022.findings-emnlp.541/">[Paper]</a> <a href=""></a></p>
 </div>
 </div>
 
+# Projects
+- **Postdoctoral Fellowship Program (Grade C). PI. Research on LLM Watermarking. 2024.07 - 2026.07. ¥800,000 (including ¥360k from CAS and ¥200k from IIE).**
+- **Special Research Assistant Project of CAS (Talent Program Class B). PI. 2024.07 - 2027.07. ¥800k.**
+- **R&D Sub-program. PI. LLM Watermarking. 2025.01-2027.12. ¥600k.**
+
+
+
 # Awards
+- **2025. Top 1 Winner of NLPCC 2025 Shared task: LLM-generated text detection.**
 - **2024. Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences**
 - **2023. Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences.**
 - **2022. Top 1 Winner of CCL 2022 Competition: News context analysis and evaluation.**
@@ -239,13 +260,11 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 }
   
 .paper-container {
-    display: flex;
-    gap: 20px;
-    margin: 30px 0;
-    padding: 15px;
-    border-radius: 8px;
-    background: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 hr {
@@ -253,18 +272,6 @@ hr {
     height: 1px;
     background-color: #ddd;
     border: none;
-}
-
-.paper-image {
-    flex: 0 0 300px;
-    min-width: 0;
-}
-
-.paper-image img {
-    width: 100%;
-    height: auto;
-    border-radius: 4px;
-    border: 1px solid #eee;
 }
 
 .paper-text {
