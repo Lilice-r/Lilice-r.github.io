@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor (预聘副研究员) at Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>AI Security</strong>. 
+Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor (预聘副研究员) at the Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>LLM Safety</strong>, with a primary focus on LLM Watermarking and LLM-generated text detection. 
+
+任昱冰，预聘副研、硕导，2024年博士毕业，入选信工所优才计划B、博士后国资计划， 现聚焦于研究大模型水印和AI文本检测。
 
 # Education
 
@@ -33,13 +35,12 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
     </div>
 </div>
 
-# Publications
+# Selected Researches
 <div class="paper-text">
 <div class="paper-title">Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Ping Guo, Yanan Cao</p>
 <p class="paper-venue">ICML'26 </p>
 <p class="paper-links"><a href="">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 <div class="paper-text">
@@ -48,14 +49,12 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'26 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2603.24981">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 <div class="paper-text">
 <div class="paper-title">Rethinking LLM Watermark Detection in Black-Box Settings: A Non-Intrusive Third-Party Framework</div>
 <p class="paper-authors">Zhuoshang Wang, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Fang Fang, Xiaoxue Li, Li Guo</p>
 <p class="paper-venue">ACL'26 (findings)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2603.14968">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 <div class="paper-text">
@@ -64,14 +63,12 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'26 (findings)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2512.16182">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 <div class="paper-text">
 <div class="paper-title">Cognitive Analysis Graph-Guided Multi-Turn Safety Enhancement for Large Language Models</div>
 <p class="paper-authors">Lanxue Zhang, Yuqiang Xie, Fang Fang, Yubing Ren, Xuebin Wang, Yanan Cao</p>
 <p class="paper-venue">ACL'26 (findings)</p>
 <p class="paper-links"><a href="https://openreview.net/pdf?id=suOOpfC0IS">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 <div class="paper-text">
@@ -80,7 +77,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">NeurIPS'25 (spotlight)</p>
 <p class="paper-links"><a href="https://arxiv.org/pdf/2509.15550">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 <div class="paper-text">
 <div class="paper-title">Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining</div>
@@ -88,7 +84,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">NeurIPS'25 </p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2509.15556">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
+
 
 <div class="paper-text">
 <div class="paper-title">Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</div>
@@ -105,7 +101,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09921">[Paper]</a> <a href="https://github.com/redwyd/PrivacyJailbreak"></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -113,7 +108,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Yidan Wang, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Binxing Fang</p>
 <p class="paper-venue">ACL'25 (main)</p>
 <p class="paper-links"><a href="https://arxiv.org/abs/2505.09924">[Paper]</a> <a href="https://github.com/redwyd/SymMark"></a></p>
-</div>
 </div>
 
 
@@ -123,7 +117,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'24 (findings)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a> <a href="https://github.com/Lilice-r/RIW"></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -132,7 +125,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">LREC-COLING'24 (main)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2024.lrec-main.410/">[Paper]</a> <a href="https://github.com/Lilice-r/DEIE"></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -140,7 +132,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yanan Cao, Yunpeng Li, Heyan Huang</p>
 <p class="paper-venue">SIGIR'24 </p>
 <p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3626772.3657819">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 
@@ -159,7 +150,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">WWW'24</p>
 <p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645701">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -177,7 +167,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'23 (main)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2023.acl-long.17/">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -185,7 +174,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Ping Guo, Yue Hu, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang</p>
 <p class="paper-venue">ECAI'23 (main)</p>
 <p class="paper-links"><a href="https://ebooks.iospress.nl/doi/10.3233/FAIA230364">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 
@@ -195,7 +183,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">EMNLP'23 (findings)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2023.findings-emnlp.421/">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -204,7 +191,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">COLING'22</p>
 <p class="paper-links"><a href="https://aclanthology.org/2022.coling-1.221/">[Paper]</a> <a href=""></a></p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -212,7 +198,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Ping Guo, Yue Hu, Xiangpeng Wei, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yunpeng Li, Luxi Xing, Yuqiang Xie</p>
 <p class="paper-venue">EMNLP'22 (findings)</p>
 <p class="paper-links"><a href="https://aclanthology.org/2022.findings-emnlp.541/">[Paper]</a> <a href=""></a></p>
-</div>
 </div>
 
 # Projects
@@ -228,6 +213,29 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 - **2023. Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences.**
 - **2022. Top 1 Winner of CCL 2022 Competition: News context analysis and evaluation.**
 
+
+# Advised Students
+**Feels great honour to advise the following talented students with Prof. Cao.**
+- **2026: Hongrui Bao (Master candidate)**
+- **2025: Guoyu Zhao (PhD candidate)**
+- **2024: Hongxu Jiang (PhD candidate)**
+- **2023: Zhuoshang Wang (PhD candidate)**
+- **2022: Yidan Wang, Xiaowei Zhu (PhD candidates)**
+- **2021: Hao Li (PhD candidate)**
+
+
+
+2021: Xiaodong Li (RecSys)
+2022: Juwei Yue (Graph ML)
+2022: Zefeng Zhang (MLLM)
+2023: Ruochen Yang (RecSys)
+2023: Yao Chen (LLM)
+2024: Shuaiyi Nie (LLM)
+2025: Simeng Zhang (LLM)
+Master Students (w/ Prof. Liu)
+2021: Gehang Zhang (Graph ML)
+2023: Linghui Wang (KG)
+2025: Shibo Ban (LLM)
 
 <p align="center" style="padding-top: 100px;"> 
 </p>
