@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor (预聘副研究员) at the Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>LLM Safety</strong>, with a primary focus on LLM Watermarking and LLM-generated text detection. 
+Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>LLM Safety</strong>, with a primary focus on LLM Watermarking and LLM-generated text detection. 
 
 任昱冰，预聘副研、硕导，2024年博士毕业，入选信工所优才计划B、博士后国资计划， 现聚焦于研究大模型水印和AI文本检测。
 
