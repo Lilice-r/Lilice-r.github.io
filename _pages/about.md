@@ -84,7 +84,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Xiaowei Zhu, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Xixun Lin, Fang Fang, Yangxi Li</p>
 <p class="paper-venue">ACL'25 (main)</p>
 </div>
-</div>
 
 
 <div class="paper-text">
