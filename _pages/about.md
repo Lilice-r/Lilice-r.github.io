@@ -56,7 +56,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 <div class="paper-text">
 <div class="paper-title">DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack</div>
-<p class="paper-authors">Hao Li, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yanan Cao, Yingjie Li, Fang Fang, Shi Wang, Li Guo</p>
+<p class="paper-authors">Hao Li, Yubing Ren, Yanan Cao, Yingjie Li, Fang Fang, Shi Wang, Li Guo</p>
 <p class="paper-venue">ACL'26 (findings)</p><p class="paper-links"><a href="https://arxiv.org/abs/2512.16182">[Paper]</a> <a href=""></a></p>
 </div>
 
