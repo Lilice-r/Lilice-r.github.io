@@ -127,7 +127,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-authors">Ping Guo*, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Yue Hu, Yunpeng Li, Jiarui Zhang, Xingsheng Zhang, Heyan Huang</p>
 <p class="paper-venue">LREC-COLING'24 (main)</p>
 </div>
-</div>
 
 
 <div class="paper-text">
@@ -141,7 +140,6 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <div class="paper-title">Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction</div>
 <p class="paper-authors">Hao Li, Yanan Cao, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang</p>
 <p class="paper-venue">ICASSP'24</p>
-</div>
 </div>
 
 
