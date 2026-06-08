@@ -73,11 +73,16 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 
 <div class="paper-text">
+<div class="paper-title">EnsemJudge: Enhancing Reliability in Chinese LLM-Generated Text Detection through Diverse Model Ensembles</div>
+<p class="paper-authors">Zhuoshang Wang, <strong style="text-decoration-line: underline;">Yubing Ren*</strong>, Guoyu Zhao, Xiaowei Zhu, Hao Li, Yanan Cao</p>
+<p class="paper-venue">NLPCC'25 (oral)</p>
+</div>
+
+<div class="paper-text">
 <div class="paper-title">Exploring Polyglot Harmony: On Multilingual Data Allocation for Large Language Models Pretraining</div>
 <p class="paper-authors">Ping Guo, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Binbin Liu, Fengze Liu, Haobin Lin, Yifan Zhang, Bingni Zhang, Taifeng Wang, Yin Zheng</p>
 <p class="paper-venue">NeurIPS'25 </p>
 </div>
-
 
 <div class="paper-text">
 <div class="paper-title">Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction</div>
@@ -106,6 +111,11 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 <p class="paper-venue">ACL'24 (findings)</p>
 </div>
 
+<div class="paper-text">
+<div class="paper-title">Bridging the Gap: Aligning Language Model Generation with Structured Information Extraction via Controllable State Transition</div>
+<p class="paper-authors">Hao Li, <strong style="text-decoration-line: underline;">Yubing Ren</strong>, Yanan Cao, Yingjie Li, Fang Fang, Zheng Lin, Shi Wang</p>
+<p class="paper-venue">WWW'25 (oral)</p>
+</div>
 
 <div class="paper-text">
 <div class="paper-title">DEIE: Benchmarking Document-level Event Information Extraction with a Large-scale Chinese News Dataset</div>
