@@ -194,6 +194,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 
 # Awards
+- **2026. Top 1 Winner of NLPCC 2026 Shared task: LLM-generated text detection.**
 - **2025. Top 1 Winner of NLPCC 2025 Shared task: LLM-generated text detection.**
 - **2024. Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences**
 - **2023. Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences.**
