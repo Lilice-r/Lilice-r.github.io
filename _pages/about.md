@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Professor at the Institute of Information Engineering, Chinese Academy of Sciences. Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, under the supervision of Prof. <a href="https://people.ucas.ac.cn/~0046013" target="_blank">Yanan Cao</a> and Prof. <a href="http://nelist.iie.cas.cn/yjspy/bssds/202207/t20220704_708326.html" target="_blank">Wei Ma</a>. My research interests include <strong>Natural Language Processing</strong> and <strong>LLM Safety</strong>, with a primary focus on LLM Watermarking and LLM-generated text detection. 
 
-任昱冰，预聘副研、硕导，2024年博士毕业，入选信工所优才计划B、博士后国资计划， 现聚焦于研究大模型水印和AI文本检测。
+任昱冰，预聘副研、硕导，2024年博士毕业，现聚焦于研究大模型水印和AI文本检测。
 
 # Education
 
@@ -187,7 +187,8 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 </div>
 
 # Projects
-- **Postdoctoral Fellowship Program (Grade C). PI. Research on LLM Watermarking. 2024.07 - 2026.07. ¥800,000 (including ¥360k from CAS and ¥200k from IIE).**
+- **National Natural Science Foundation of China Youth Project. PI. High-Fidelity Injection and Robust Verification Methods for LLM Watermarking. 2027.01 - 2029.12. ¥300k.**
+- **Postdoctoral Fellowship Program (Grade C). PI. Research on LLM Watermarking. 2024.07 - 2026.07. ¥600k.**
 - **Special Research Assistant Project of CAS (Talent Program Class B). PI. 2024.07 - 2027.07. ¥800k.**
 - **R&D Sub-program. PI. LLM Watermarking. 2025.01-2027.12. ¥600k.**
 
@@ -207,7 +208,7 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 - **2025: Guoyu Zhao (PhD candidate)**
 - **2024: Hongxu Jiang (PhD candidate)**
 - **2023: Zhuoshang Wang (PhD candidate)**
-- **2022: Yidan Wang, Xiaowei Zhu (PhD candidates)**
+- **2022: Yidan Wang (PhD candidate)**
 - **2021: Hao Li (PhD candidate)**
 
 
