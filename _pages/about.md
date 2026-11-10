@@ -37,6 +37,12 @@ Hi! My full name is **Yubing Ren**. I am currently a Tenure-track Associate Prof
 
 # Selected Researches
 <div class="paper-text">
+<div class="paper-title">EVIL-Detect for NLPCC 2026 Shared Task 6: LLM-Generated Text Detection</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Hongrui Bao, Hangyu Rong, Zhuoshang Wang, Yubing Ren*</strong>, and Yanan Cao</p>
+<p class="paper-venue">NLPCC'26 </p>
+</div>
+
+<div class="paper-text">
 <div class="paper-title">Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Yubing Ren</strong>, Ping Guo, Yanan Cao</p>
 <p class="paper-venue">ICML'26 </p>
